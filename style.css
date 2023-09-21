@@ -1,0 +1,26 @@
+.movie_head
+{
+font-size: 15px;
+padding:5px 25px ;
+border-radius: 10px;
+margin-bottom: 14px;
+}
+
+.movie_head i
+{
+    float: right;
+}
+.achievement_text span
+{
+    color: burlywood;
+}
+
+.new
+{
+margin-bottom: 20px;
+
+}
+#contact iframe
+{
+    width: 100%;
+}
